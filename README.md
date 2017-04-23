@@ -13,9 +13,9 @@ I have set up training with most default params on a very small dataset so that 
 /bin/bash run.sh ./config.sh
 ```
 
-## Data Processing
+### Data Processing
 Several data processing options are implented in the scripts below.
 ```
-sh run_data.sh ./config_data.sh
+/bin/bash run_data.sh ./config_data.sh
 ```
 
