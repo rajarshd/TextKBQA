@@ -19,3 +19,9 @@ Several data processing options are implented in the scripts below.
 /bin/bash run_data.sh ./config_data.sh
 ```
 
+### Model outputs
+We are also releasing the output predictions of our model for comparison. Find them in the model_outputs directory.
+
+### Pretrained model
+We are also releasing our trained model. It can be downloaded here <ask Sysadmin for public link>
+
