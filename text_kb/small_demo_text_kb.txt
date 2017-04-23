@@ -1,0 +1,539 @@
+{"key_length": 6, "key": ["_blank_", "over", "m.0k8z", "simply", "works", "!"], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["However", ",", "m.0k8z", "is", "the", "first", "brand", "talking", "only", "about", "m.09c7w0", "and", "_blank_", "."], "value": "m.0d060g", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["However", ",", "m.0k8z", "is", "the", "first", "brand", "talking", "only", "about", "_blank_", "and", "m.0d060g", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "launches", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["But", "in", "the", "summer_of_2007", ",", "m.0k8z", "rocked", "_blank_", "by", "launching", "the", "m.027lnzs", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["But", "in", "the", "summer_of_2007", ",", "m.0k8z", "rocked", "m.09c7w0", "by", "launching", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "has", "revamped", "its", "flagship", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 17, "key": ["The", "first", "widely", "sold", "and", "successful", "desktop", "computer", "was", "the", "_blank_", "introduced", "in", "1977", "by", "m.0k8z", "."], "value": "m.0wxp", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", "and", "the", "m.0k8z", "'s", "logo", "are", "the", "property", "of", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", "and", "the", "m.0k8z", "'s", "logo", "are", "the", "property", "of", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "also", "developed", "_blank_", ",", "the", "powerful", "notebook", "computer", "."], "value": "m.068tk", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z"], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "just", "sold", "its", "100", "millionth", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["Finally", ",", "m.0k8z", "also", "sells", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["First", "came", "m.0k8z", "'s", "game-changing", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "announced", "the", "_blank_", "in", "October_2001", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Clearly", "_blank_", "has", "been", "holding", "m.0k8z", "back", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.06y3r", "is", "as", "important", "to", "m.0k8z", "as", "_blank_", "is", "to", "m.04sv4", "."], "value": "m.017nt", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.06y3r", "is", "as", "important", "to", "m.0k8z", "as", "m.017nt", "is", "to", "_blank_", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", "is", "as", "important", "to", "m.0k8z", "as", "m.017nt", "is", "to", "m.04sv4", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["That", "'s", "where", "m.0k8z", "'s", "_blank_", "comes", "in", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "will", "release", "the", "new", "_blank_", "soon", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["According", "to", "m.0k8z", "the", "_blank_", "will", "be", "available", "in", "Mid-", "2007", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "apparently", "plans", "to", "join", "m.0k8z", "in", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["First", ",", "_blank_", "conquered", "m.06pw6", "in", "the", "1980", "s", "with", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["First", ",", "m.06y3r", "conquered", "_blank_", "in", "the", "1980", "s", "with", "m.0k8z", "."], "value": "m.06pw6", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "_blank_", "and", "even", "the", "original", "m.0k8z", "'s", "computer", "are", "parallel", "examples", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "'s", "_blank_", "was", "ranked", "No."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 4, "key": ["m.0k8z", "makes", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["But", "_blank_", "and", "his", "lifework", "with", "m.0k8z", "is", "absolutely", "one", "my", "top", "inspiration", "sources", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["_blank_", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "m.06y3r", "back", "to", "m.0k8z", "."], "value": "m.05fxn", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["m.05fxn", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "_blank_", "back", "to", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["_blank_", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "m.06y3r", "back", "to", "m.0k8z", "."], "value": "m.05fxn", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["m.05fxn", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "_blank_", "back", "to", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["Our", "first", "m.0k8z", "'s", "product", "was", "a", "_blank_", "."], "value": "m.0sjms", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["An", "unhealthy", "_blank_", "means", "an", "unhealthy", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "is", "to", "m.0k8z", ",", "what", "m.017nt", "is", "to", "m.04sv4", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.06y3r", "is", "to", "m.0k8z", ",", "what", "_blank_", "is", "to", "m.04sv4", "."], "value": "m.017nt", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.06y3r", "is", "to", "m.0k8z", ",", "what", "m.017nt", "is", "to", "_blank_", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "recalled", "_blank_", "in", "1997", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "must", "be", "returned", "to", "m.0k8z", "to", "be", "replaced", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": [",", "_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z"], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "'s", "_blank_", "weighs", "4", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "is", "a", "trademark", "or", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "launched", "the", "_blank_", "in", "2001", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "connected", "to", "both", "m.045c7b", "and", "m.0k8z", "."], "value": "m.01gqf4", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.01gqf4", "is", "connected", "to", "both", "_blank_", "and", "m.0k8z", "."], "value": "m.045c7b", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "formed", "by", "m.06y3r", "and", "_blank_", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "formed", "by", "_blank_", "and", "m.06y1l", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "even", "owns", "_blank_", "so", "this", "could", "be", "the", "first", "."], "value": "m.0c81jt", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["But", "that", "also", "explains", "why", "m.0k8z", "are", "selling", "more", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["The", "next", "revolutionary", "device", "from", "m.0k8z", "is", "the", "_blank_", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["-based", "m.0k8z", "released", "the", "_blank_", "on", "June_29", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "of", "m.0k8z", "would", ",", "for", "sure", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["The", "_blank_", "is", "m.0k8z", "'s", "most", "important", "business", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Every", "single", "m.0k8z", "'s", "product", "IS", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.08qzjd", "moved", "with", "_blank_", "to", "m.0k8z", "in", "late", "1996", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "moved", "with", "m.06y3r", "to", "m.0k8z", "in", "late", "1996", "."], "value": "m.08qzjd", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["Most", "importantly", ",", "m.0k8z", "investigated", "two", "grants", "to", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "went", "to", "m.0k8z", "shortly", "thereafter", "."], "value": "m.0q0x", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "came", "back", "to", "rescue", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["Today", "m.0k8z", "released", "_blank_", "2", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["In", "1983", ",", "m.0k8z", "had", "released", "the", "_blank_", "."], "value": "m.0k706", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "will", "be", "more", "likely", "update", "its", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "is", "trying", "with", "the", "_blank_", ",", "and", "doing", "OK", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 17, "key": ["m.0k8z", "may", "piggyback", "off", "the", "_blank_", ",", "but", "it", "will", "not", "likely", "produce", "something", "as", "innovative", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Currently", "_blank_", "is", "the", "CEO", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "has", "effectively", "done", "this", "with", "the", "m.0mcx2", "and", "_blank_", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "has", "effectively", "done", "this", "with", "the", "_blank_", "and", "m.0cc8kq4", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["m.0k8z", "has", "been", "known", "to", "sell", "for", "200", "USD", "in", "the", "m.09c7w0", "and", "200", "_blank_", "in", "m.07ssc", "."], "value": "m.0k5b5", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["m.0k8z", "has", "been", "known", "to", "sell", "for", "200", "USD", "in", "the", "m.09c7w0", "and", "200", "m.0k5b5", "in", "_blank_", "."], "value": "m.07ssc", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["m.0k8z", "has", "been", "known", "to", "sell", "for", "200", "USD", "in", "the", "_blank_", "and", "200", "m.0k5b5", "in", "m.07ssc", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z"], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["One", "big", "exception", "is", "m.0k8z", "'s", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "-based", "m.0k8z", "sold", "6", "."], "value": "m.0r679", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["Will", "m.0k8z", "introduce", "a", "next-generation", "_blank_", "in", "June", "?"], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "who", "is", "the", "acting", "CEO", "at", "m.0k8z", "mentioned", "this", "."], "value": "m.05r65m", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "and", "m.0mcx2", "accessories", "are", "serviced", "directly", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0mcx2", "and", "_blank_", "accessories", "are", "serviced", "directly", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["That", "was", "one", "month", "before", "m.0k8z", "introduced", "the", "_blank_", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "is", "the", "trademark", "of", "m.0k8z"], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "'s", "_blank_", "is", "an", "excellent", "example", "of", "this", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "only", "produces", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "did", "this", "already", "with", "the", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "also", "the", "home", "of", "m.0k8z", "."], "value": "m.0r679", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["The", "most", "obvious", "recent", "analog", "is", "the", "_blank_", ",", "which", "m.0k8z", "introduced", "in", "October_2001", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "overpriced", "have", "_blank_", "from", "m.0d060g", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "overpriced", "have", "m.09c7w0", "from", "_blank_", "."], "value": "m.0d060g", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "has", "shrewdly", "made", "the", "new", "_blank_", "10", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "the", "finest", "company", "of", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "home", "of", "m.0k8z", "."], "value": "m.0r679", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "was", "launching", "the", "_blank_", ",", "then", "the", "m.0mcx2", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "was", "launching", "the", "m.0mbxw", ",", "then", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["The", "new", "_blank_", "is", "the", "thinnest", "model", "ever", "made", "by", "m.0k8z", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["_blank_", "is", "co-founder", "of", "m.0k8z"], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["24", ",", "m.0k8z", "will", "announce", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Will", "m.0k8z", "be", "the", "same", "without", "_blank_", "?"], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["However", ",", "_blank_", "does", "still", "pwn", "m.0k8z", "in", "m.03_3d", "."], "value": "m.06q07", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["However", ",", "m.06q07", "does", "still", "pwn", "m.0k8z", "in", "_blank_", "."], "value": "m.03_3d", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "understood", "this", "very", "well", "when", "introducing", "the", "_blank_", "in", "1998", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "visionary", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["In", "1984", "m.0k8z", "introduced", "its", "first", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["In", "2008", ",", "m.0k8z", "might", "sell", "8_million", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["_blank_", "had", "lost", "m.0k8z", "."], "value": "m.0dq_5", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["Thus", "far", "only", "m.0k8z", "makes", "m.0zd6", ",", "and", "_blank_", "are", "the", "best", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["Thus", "far", "only", "m.0k8z", "makes", "_blank_", ",", "and", "m.0zd6", "are", "the", "best", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Yet", ",", "m.0k8z", "reports", "the", "_blank_", "separately", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 19, "key": ["_blank_", "will", "be", "replaced", "between", "now", "and", "June", "by", "chief", "operating", "officer", "m.05r65m", ",", "an", "m.0k8z", "'s", "veteran", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 19, "key": ["m.06y3r", "will", "be", "replaced", "between", "now", "and", "June", "by", "chief", "operating", "officer", "_blank_", ",", "an", "m.0k8z", "'s", "veteran", "."], "value": "m.05r65m", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "has", "75", "countries", "to", "fill", "with", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", ",", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "Will", "Be", "Fine", "Without", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", ",", "former", "m.0k8z", "'s", "employees", "recall", "."], "value": "m.01fqmx", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "is", "invading", "corporate", "_blank_", "!"], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["In", "2007", ",", "m.0k8z", "introduced", "the", "_blank_", ",", "which", "was", "another", "OSX-based", "device", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["0", "was", "a", "_blank_", "product", "and", "arguably", "all", "about", "the", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0wxp", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "trademark", "licensed", "to", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["A", "great", "example", "of", "this", "is", "the", "_blank_", ",", "and", "m.0k8z", "'s", "upcoming", "AppStore", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.06y1l", ",", "together", "with", "_blank_", "is", "best", "known", "for", "founding", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", ",", "together", "with", "m.06y3r", "is", "best", "known", "for", "founding", "m.0k8z", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["A", "less", "pricey", "choice", "from", "m.0k8z", "is", "the", "_blank_", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["-based", "m.02_3bd2", ",", "a", "company", "started", "by", "_blank_", ",", "a", "former", "m.0k8z", "'s", "employee", "."], "value": "m.02_7cgc", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["-based", "_blank_", ",", "a", "company", "started", "by", "m.02_7cgc", ",", "a", "former", "m.0k8z", "'s", "employee", "."], "value": "m.02_3bd2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["Most", "recently", ",", "_blank_", "was", "Executive", "Vice", "President", "and", "CFO", "of", "m.0k8z", "."], "value": "m.0gmsmf", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "released", "the", "first", "_blank_", "in", "October", ",", "two_thousand_one", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["However", ",", "a", "_blank_", "also", "produced", "by", "the", "m.0k8z", "could", "be", "used", "instead", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "left", "m.0k8z", "shortly", "afterward", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["This", "is", "exclusively", "for", "_blank_", "and", "m.0k8z", "'s", "notebooks", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["Friday", ",", "m.0k8z", "will", "release", "its", "new", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["There", "was", "also", "a", "The", "Beatles", "their", "history", "the", "_blank_", "when", "signing", "with", "m.0k8z", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["_blank_", "stated", "an", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "have", "released", "the", "Second", "Generation", "_blank_", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "was", "previously", "a", "marketing", "guru", "for", "m.0k8z", "."], "value": "m.01p5q2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["My", "_blank_", "is", "getting", "replaced", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "is", "the", "current", "CEO", "and", "co-founder", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["Finally", ",", "m.0k8z", "has", "announced", "_blank_", "which", "has", "wireless", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "is", "also", "the", "chairman", "and", "chief", "executive", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 4, "key": ["_blank_", "leaves", "m.0k8z", "."], "value": "m.0190r3", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", ",", "was", "the", "co-founder", "of", "m.0k8z", "in", "1975", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "created", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["Apparently", "m.0k8z", "will", "be", "pricing", "the", "_blank_", "very", "competitively", "too", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "wants", "to", "sell", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "new", "m.02z6z4v", "is", "the", "most", "expensive", "_blank_", "ever", "sold", "by", "m.0k8z", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "new", "_blank_", "is", "the", "most", "expensive", "m.02z6z4v", "ever", "sold", "by", "m.0k8z", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "of", "m.0k8z", "would", "be", "another", "."], "value": "m.02cw6w", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["2", "m", "_blank_", "shipments", ",", "m.0k8z", "is", "averaging", "6", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["2", "update", ",", "m.0k8z", "has", "also", "released", "an", "_blank_", "1", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "is", "only", "grand", "standing", "and", "obviously", "lied", "to", "m.0k8z", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 4, "key": ["m.0k8z", "make", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["One", "such", "product", "is", "m.0k8z", "'s", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "'s", "most-pocket", "friendly", "m.0mcx2", "is", "_blank_", "."], "value": "m.04yg_s", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "'s", "most-pocket", "friendly", "_blank_", "is", "m.04yg_s", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "joined", "m.0k8z", "in", "September_2000", "."], "value": "m.0d21pp", "entity": "m.0k8z"}
+{"key_length": 16, "key": ["Also", ",", "like", "the", "extremely", "popular", "_blank_", "from", "m.0k8z", ",", "the", "m.04gwfxw", "is", "touchscreen", "device", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 16, "key": ["Also", ",", "like", "the", "extremely", "popular", "m.027lnzs", "from", "m.0k8z", ",", "the", "_blank_", "is", "touchscreen", "device", "."], "value": "m.04gwfxw", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Also", "in", "2005", "m.0k8z", "came", "out", "with", "the", "_blank_", "and", "the", "new", "m.0mbxw", "."], "value": "m.04ygwp", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Also", "in", "2005", "m.0k8z", "came", "out", "with", "the", "m.04ygwp", "and", "the", "new", "_blank_", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["There", "never", "could", "have", "been", "an", "m.0k8z", "without", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["But", "m.0k8z", "never", "does", "this", "with", "_blank_", "or", "cases", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["In", "July_1999", ",", "m.0k8z", "released", "the", "_blank_", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "CEO", "of", "both", "m.0k8z", "and", "m.09b3v", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.06y3r", "is", "CEO", "of", "both", "m.0k8z", "and", "_blank_", "."], "value": "m.09b3v", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "was", "kicked", "out", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["The", "_blank_", "was", "introduced", "by", "m.0k8z", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.09b3v", "is", "iffy", "due", "to", "m.0k8z", "'s", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "iffy", "due", "to", "m.0k8z", "'s", "m.06y3r", "."], "value": "m.09b3v", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["The", "_blank_", "is", "an", "m.0k8z", "'s", "product", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 16, "key": ["This", "is", "the", "lowest", "cost", "new", "_blank_", "ever", "produced", "by", "m.0k8z", "and", "worth", "a", "look", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["Six", "years", "ago", "today", ",", "m.0k8z", "introduced", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", ",", "the", "founder", "of", "m.0k8z", ",", "is", "a", "self-professed", "hacker", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["So", "m.0k8z", "sells", "more", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "worked", "as", "a", "m.021q0l", "for", "m.0k8z", "in", "the", "m.0265twv", "."], "value": "m.05fb0q", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.05fb0q", "worked", "as", "a", "_blank_", "for", "m.0k8z", "in", "the", "m.0265twv", "."], "value": "m.021q0l", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.05fb0q", "worked", "as", "a", "m.021q0l", "for", "m.0k8z", "in", "the", "_blank_", "."], "value": "m.0265twv", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["Will", "m.0k8z", "'s", "_blank_", "reshape", "the", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "updates", "the", "_blank_", "yearly", ",", "after", "all", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["That", "'s", "_blank_", ",", "cofounder", "of", "m.0k8z", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "trying", "to", "monopolize", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.04sv4", "is", "apparently", "still", "the", "largest", "_blank_", "'s", "developer", "outside", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["_blank_", "is", "apparently", "still", "the", "largest", "m.0zd6", "'s", "developer", "outside", "of", "m.0k8z", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "'s", "_blank_", "is", "one", "example", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "released", "the", "first", "_blank_", "in", "2001", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "and", "_blank_", "are", "planning", "to", "bring", "m.027lnzs", "on", "Sept", "7", "."], "value": "m.01zrdx", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "and", "m.01zrdx", "are", "planning", "to", "bring", "_blank_", "on", "Sept", "7", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "'s", "replacement", "of", "the", "_blank_", "mini", "the", "m.07t99m", "is", "only", "6", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "'s", "replacement", "of", "the", "m.07t99m", "mini", "the", "_blank_", "is", "only", "6", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["The", "_blank_", "is", "a", "typical", "m.0k8z", "'s", "product", ",", "that", "is", "expensive", "and", "crippled", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "introduced", "the", "_blank_", "in", "1984", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "screennames", "which", "seems", "to", "be", "down", "to", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "released", "_blank_", "8", "."], "value": "m.0f4_6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "an", "m.0k8z", "'s", "icon", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["So", "is", "_blank_", "at", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["Another", "looks", "remarkably", "like", "m.0k8z", "'s", "_blank_", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["Munster", ",", "m.0k8z", "could", "capitalize", "on", "that", "with", "a", "low-end", "entry", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["After", "all", ",", "m.0k8z", "functioned", "without", "_blank_", "from", "1984", "to", "1997", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["m.0k8z", "has", "started", "to", "approve", "3", "rd", "party", "web", "browsers", "for", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "created", "the", "_blank_", ",", "and", "now", "the", "m.0mbxw", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "created", "the", "m.0zd6", ",", "and", "now", "the", "_blank_", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["In", "1984", ",", "m.0k8z", "introduced", "the", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "had", "already", "moved", "on", "from", "m.0k8z", "to", "start", "m.05fxn", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.06y3r", "had", "already", "moved", "on", "from", "m.0k8z", "to", "start", "_blank_", "."], "value": "m.05fxn", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "is", "a", "trademark", "or", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["264", "format", "used", "by", "m.0k8z", "'s", "new", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["This", "has", "been", "led", "by", "m.0k8z", "with", "its", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Your", "_blank_", "can", "be", "charged", "more", "quickly", "with", "the", "optional", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "can", "join", "m.0k8z", "starting", "April_24", "th", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["The", "core", "business", "engine", "for", "m.0k8z", "is", "the", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 19, "key": ["m.0k8z", "has", "released", "two", "MacBooks", "yesterday", ",", "the", "new", "13", "-inch", "_blank_", "and", "the", "new", "15", "-inch", "m.09tzfp", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 19, "key": ["m.0k8z", "has", "released", "two", "MacBooks", "yesterday", ",", "the", "new", "13", "-inch", "m.09tzjm", "and", "the", "new", "15", "-inch", "_blank_", "."], "value": "m.09tzfp", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "never", "will", "put", "_blank_", "touch", "sideways", "like", "this", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "plans", "to", "launch", "the", "_blank_", "in", "June", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["A", "good", "example", "is", "m.0k8z", "'s", "incredible", "new", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "without", "m.0k8z", "is", "unthinkable", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "and", "namely", "_blank_", "are", "notorious", "for", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "was", "founded", "in", "_blank_", ",", "m.01n7q", "on", "April", "."], "value": "m.0mhdz", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "was", "founded", "in", "m.0mhdz", ",", "_blank_", "on", "April", "."], "value": "m.01n7q", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["Nearly_25_years_later", ",", "m.0k8z", "released", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "CEO", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["This", "was", "resolved", "in", "February_2007", "with", "m.0k8z", "the", "_blank_", "'s", "album", "m.09c7w0", "."], "value": "m.017l96", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["This", "was", "resolved", "in", "February_2007", "with", "m.0k8z", "the", "m.017l96", "'s", "album", "_blank_", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["As", "everyone", "has", "heard", "by", "now", ",", "m.0k8z", "announced", "the", "_blank_", "and", "m.0gz0jd", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["As", "everyone", "has", "heard", "by", "now", ",", "m.0k8z", "announced", "the", "m.027lnzs", "and", "_blank_", "."], "value": "m.0gz0jd", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["This", "could", "never", "have", "happened", "if", "m.0k8z", "had", "kept", "the", "m.0mcx2", "_blank_", "-specific", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["This", "could", "never", "have", "happened", "if", "m.0k8z", "had", "kept", "the", "_blank_", "m.0zd6", "-specific", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "'s", "_blank_", "is", "the", "obvious", "one", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "received", "mixed", "reviews", "_blank_", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["That", "m.0k8z", "would", "have", "a", "_blank_", "was", "predictable", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["That", "includes", "m.0k8z", "'s", "_blank_", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["And", "on", "January", "24,198_4", "m.0k8z", "introduced", "the", "_blank_", ",", "the", "computer", "that", "changed", "everything", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["The", "_blank_", "is", "a", "product", "of", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Inexplicably", ",", "_blank_", "had", "returned", "my", "m.0mcx2", "to", "m.0k8z", "after", "one", "delivery", "attempt", "."], "value": "m.021086", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Inexplicably", ",", "m.021086", "had", "returned", "my", "_blank_", "to", "m.0k8z", "after", "one", "delivery", "attempt", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["An", "_blank_", "is", "a", "digital", "audio", "player", "made", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["This", "is", "why", "m.0k8z", "designed", "their", "_blank_", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Twenty_one", "years", "ago", ",", "on", "January_24_,_1984", ",", "m.0k8z", "launched", "the", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "has", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "the", "CEO", "of", "m.0k8z", ",", "a", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "the", "beginning", "of", "the", "doom", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["m.02hy_ps", "is", "the", "digital", "music", "player", "that", "_blank_", "launched", "in", "November_2006", "to", "compete", "with", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["m.02hy_ps", "is", "the", "digital", "music", "player", "that", "m.04sv4", "launched", "in", "November_2006", "to", "compete", "with", "m.0k8z", "'s", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 18, "key": ["_blank_", "is", "the", "digital", "music", "player", "that", "m.04sv4", "launched", "in", "November_2006", "to", "compete", "with", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.02hy_ps", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["The", "_blank_", ",", "revealed", "by", "m.0k8z", ",", "No."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "sells", "the", "_blank_", "?"], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "is", "owned", "by", "m.0k8z", "!"], "value": "m.0c81jt", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "will", "begin", "working", "at", "m.0k8z", "on", "November_1", "."], "value": "m.03wqgrq", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "will", "be", "doing", "for", "m.0k8z", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "announced", "the", "_blank_", "on", "9_January_2007", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["That", "shows", "how", "important", "_blank_", "is", "to", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["The", "_blank_", "and", "m.0k8z", "'s", "TV", "are", "perfect", "examples", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "makes", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "may", "have", "made", "this", "harder", "on", "the", "_blank_", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["99", "and", "shares", "of", "m.0k8z", ",", "the", "maker", "of", "the", "_blank_", ",", "declined", "2", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "trademark", "owned", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["My", "_blank_", "should", "be", "heading", "back", "to", "m.0k8z", "either", "tomorrow", "or", "Monday", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "works", "in", "m.01n7q", "for", "m.0k8z", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.04ycpj6", "works", "in", "_blank_", "for", "m.0k8z", "."], "value": "m.01n7q", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["The", "_blank_", "is", "my", "first", "m.0k8z", "'s", "product", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["An", "_blank_", "is", "a", "device", "from", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["Imagine", "m.0k8z", "revealing", "the", "latest", "_blank_", "at", "3", "AM", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "introduced", "the", "_blank_", "here", "last", "year", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["_blank_", "belongs", "to", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "went", "on", "to", "found", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "and", "m.06y1l", "officially", "started", "m.0k8z", "on", "April_1_,_1976", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.06y3r", "and", "_blank_", "officially", "started", "m.0k8z", "on", "April_1_,_1976", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "at", "m.0k8z", "comes", "to", "mind", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["Has", "m.0k8z", "hidden", "the", "_blank_", "?"], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["In", "the", "third_quarter_of_2008", "alone", ",", "m.0k8z", "shipped", "1,645,000", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 17, "key": ["Supporting", "the", "ubiquitous", ",", "ever", "present", "_blank_", "is", "m.0k8z", "'s", "own", "iTunes", "program", "and", "music", "service", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "then", "sued", "_blank_", "for", "m.04r_8", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "then", "sued", "m.04sv4", "for", "_blank_", "."], "value": "m.04r_8", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "new", "_blank_", "is", "a", "technology", "breakthrough", "for", "m.0k8z", "and", "laptop", "makers", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "president", "of", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "will", "show", "a", "new", "_blank_", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["For", "an", "_blank_", ",", "choose", "the", "m.0k8z", "?"], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["As", "m.0k8z", "and", "_blank_", "intended", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["and", "m.0k8z", "is", "still", "making", "_blank_", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0gmsmf", "came", "to", "m.0k8z", "from", "_blank_", "where", "he", "was", "also", "CFO", "."], "value": "m.04hshv", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["_blank_", "came", "to", "m.0k8z", "from", "m.04hshv", "where", "he", "was", "also", "CFO", "."], "value": "m.0gmsmf", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.02hy_ps", "is", "the", "_blank_", "'s", "answer", "to", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.02hy_ps", "is", "the", "m.04sv4", "'s", "answer", "to", "m.0k8z", "'s", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "is", "the", "m.04sv4", "'s", "answer", "to", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.02hy_ps", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "m.06y1l", "and", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "_blank_", "and", "m.06y3r", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "got", "my", "_blank_", "on", "Wednesday", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["_blank_", ",", "the", "founder", "of", "m.0k8z", ",", "was", "also", "a", "school", "dropout", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "quietly", "released", "the", "_blank_", "2", "."], "value": "m.0gz0jd", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "is", "bypassing", "_blank_", "altogether", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["m.0k8z", "'s", "_blank_", "is", "the", "most", "well-known", "audio", "player", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["the", "_blank_", "is", "by", "far", "the", "worst", "designed", "computer", "m.0k8z", "has", "ever", "made", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "'s", "_blank_", "thinks", "so", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["This", "resulted", "in", "_blank_", "quitting", "m.0k8z", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "is", "back", "with", "its", "latest", "video", "_blank_", ",", "generation", "5", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "sold", "too", "many", "_blank_", "."], "value": "m.066858v", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "has", "released", "2", "new", "_blank_", "games", ",", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["On", "July_24_,_2000", ",", "m.0k8z", "registered", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "released", "their", "new", "_blank_", "today", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "came", "back", "and", "saved", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "came", "up", "with", "the", "_blank_", "which", "creatively", "destroyed", "m.06q07", "'s", "m.0854v", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "came", "up", "with", "the", "m.0mcx2", "which", "creatively", "destroyed", "m.06q07", "'s", "_blank_", "."], "value": "m.0854v", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "came", "up", "with", "the", "m.0mcx2", "which", "creatively", "destroyed", "_blank_", "'s", "m.0854v", "."], "value": "m.06q07", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["The", "_blank_", "is", "a", "multi-media", "mobile", "phone", "sold", "by", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Finally", ",", "m.0k8z", "has", "made", "its", "_blank_", "aware", "of", "m.0k8z", "'s", "iTunes", "2", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["Finally", ",", "m.0k8z", "has", "made", "its", "_blank_", "aware", "of", "m.0k8z", "'s", "iTunes", "2", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "'s", "_blank_", "has", "nothing", "to", "fear", "."], "value": "m.04ygwp", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "is", "the", "online", "services", "suite", "from", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "is", "synonymous", "with", "_blank_", "and", "vice", "versa", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["just", "like", "m.0k8z", "keep", "bricking", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 16, "key": ["pregnancy", "jpegs", "_blank_", "support", "latest", "m.0zd6", "apparently", "was", "either", "explicitly", "the", "m.0k8z", "'s", "imaging", "applications", "."], "value": "m.04jdk6w", "entity": "m.0k8z"}
+{"key_length": 16, "key": ["pregnancy", "jpegs", "m.04jdk6w", "support", "latest", "_blank_", "apparently", "was", "either", "explicitly", "the", "m.0k8z", "'s", "imaging", "applications", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "the", "m.01n7q", "headquarters", "of", "m.0k8z", "."], "value": "m.0r679", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0r679", "is", "the", "_blank_", "headquarters", "of", "m.0k8z", "."], "value": "m.01n7q", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "earlier_this_week", "launched", "a", "30", "-gigabyte", "_blank_", "with", "a", "2", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["On", "a", "_blank_", ",", "two", "good", "tools", "are", "m.0k8z", "'s", "iDVD", "6", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["The", "_blank_", "from", "m.0k8z", "is", "being", "released", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "had", "launched", "_blank_", "on", "June_29_,_2007", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "without", "_blank_", "will", "never", "be", "the", "same", "as", "that", "now", "!"], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["Will", "_blank_", "will", "come", "back", "to", "lead", "m.0k8z", "?"], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["The", "_blank_", "and", "other", "m.0k8z", "'s", "stuff", "just", "keeps", "getting", "better", "and", "better", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "always", "wanted", "an", "m.0k8z", "."], "value": "m.02cw6w", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["With", "the", "_blank_", ",", "but", "m.0k8z", "can", "continue", "to", "play", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["m.0k8z", "'s", "_blank_", "is", "basically", "an", "internet", "capable", ",", "multimedia", "2", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["and", "_blank_", "are", "m.0k8z", "'s", "most", "profitable", "product", "line", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "m.0k8z", "'s", "co-founder", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["Will", "m.0k8z", "bring", "back", "the", "_blank_", "?"], "value": "m.09yc4yn", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "might", "even", "surprise", "everyone", "and", "introduce", "the", "long-rumored", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "_blank_", "and", "m.06y1l", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "m.06y3r", "and", "_blank_", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "just", "announced", "their", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["The", "_blank_", "is", "an", "m.0k8z", "'s", "creation", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["This", "is", "exactly", "what", "m.0k8z", "did", "with", "the", "_blank_", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "recently", "released", "the", "greenest", "_blank_", "ever", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["Why", "_blank_", "joined", "the", "m.0k8z", "."], "value": "m.01gqf4", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["And", "m.0k8z", "continues", "to", "wow", "with", "its", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "is", "damn", "smart", "and", "so", "are", "m.0k8z", "'s", "Directors", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["And", "m.0k8z", "will", "probably", "launch", "new", "_blank_", "with", "3", "G", "compatible", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["But", "what", "IF", "_blank_", "leaves", "m.0k8z", "?"], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "could", "become", "successful", "with", "its", "_blank_", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["Your", "old", "_blank_", "will", "be", "recycled", "by", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "delivered", "with", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "m.02hy_ps", "was", "designed", "by", "_blank_", "to", "compete", "with", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "m.02hy_ps", "was", "designed", "by", "m.04sv4", "to", "compete", "with", "m.0k8z", "'s", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "_blank_", "was", "designed", "by", "m.04sv4", "to", "compete", "with", "m.0k8z", "'s", "m.0mcx2", "."], "value": "m.02hy_ps", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["Last", "year", "m.0k8z", "introduced", "_blank_", "."], "value": "m.03hl5pv", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "'s", "_blank_", "is", "not", "really", "that", "spectacular", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "has", "just", "introduced", "the", "completely", "remastered", "_blank_", "."], "value": "m.07t99m", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "and", "m.05fxn", "take", "over", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.06y3r", "and", "_blank_", "take", "over", "m.0k8z", "."], "value": "m.05fxn", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["_blank_", "only", "started", "working", "for", "m.0k8z", "last", "Tuesday", "and", "on", "Friday", "m.04081gv", "."], "value": "m.04ycpj6", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.04ycpj6", "only", "started", "working", "for", "m.0k8z", "last", "Tuesday", "and", "on", "Friday", "_blank_", "."], "value": "m.04081gv", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["_blank_", "was", "firstly", "released", "by", "m.0k8z", "in", "2001", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "also", "launched", "a", "re-designed", "_blank_", "."], "value": "m.04yg_s", "entity": "m.0k8z"}
+{"key_length": 10, "key": ["_blank_", "is", "expected", "to", "return", "to", "m.0k8z", "in", "September", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 17, "key": ["com", "m.0k8z", "'s", "_blank_", ",", "birthed", "last", "summer", ",", "is", "a", "force", "to", "be", "reckoned", "with", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["But", "m.0k8z", "has", "bragged", "_blank_", "on", "m.0cc8kq4", "."], "value": "m.09jcvs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["But", "m.0k8z", "has", "bragged", "m.09jcvs", "on", "_blank_", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "needs", "to", "go", "back", "to", "m.0k8z", "."], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["maybe", "that", "'s", "why", "m.0k8z", "launched", "the", "_blank_", "!"], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "based", "in", "m.0r679", ",", "_blank_", "."], "value": "m.01n7q", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "is", "based", "in", "_blank_", ",", "m.01n7q", "."], "value": "m.0r679", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["To", "m.0k8z", ",", "every", "device", "is", "an", "_blank_", ",", "and", "is", "treated", "as", "such", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 17, "key": ["The", "new", "_blank_", "and", "the", "back-to-school", "season", "could", "lead", "m.0k8z", "to", "ship", "as", "many", "as", "2", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["Or", "_blank_", "returning", "to", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "the", "online", "services", "offered", "by", "m.0k8z", "is", "also", "down", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 5, "key": ["m.0k8z", "subsidizes", "the", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "co-founded", "m.0k8z", "in", "1976", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "is", "a", "trademark", "of", "m.0k8z"], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["m.0k8z", "will", "do", "very", "very", "well", "with", "_blank_", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "and", "_blank_", "is", "have", "adrenal", "insufficiency", "treatment", "buy", "m.02wxtgw", "."], "value": "m.045c7b", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "and", "m.045c7b", "is", "have", "adrenal", "insufficiency", "treatment", "buy", "_blank_", "."], "value": "m.02wxtgw", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "could", "bring", "out", "a", "faster", ",", "more", "compatible", "_blank_", "."], "value": "m.0gz0jd", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["_blank_", "was", "clearly", "the", "start", "of", "all", "this", "at", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["By", "Jul_14", ",", "m.0k8z", "had", "sold", "1_million", "_blank_", "."], "value": "m.066858v", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "has", "released", "the", "new", "_blank_", "1", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Currently", "m.0k8z", "offers", "a", "one", "GB", "_blank_", "known", "as", "the", "m.04yg_s", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Currently", "m.0k8z", "offers", "a", "one", "GB", "m.0mcx2", "known", "as", "the", "_blank_", "."], "value": "m.04yg_s", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["years", "old", "brained", "_blank_", "watched", "the", "m.0k8z", "."], "value": "m.02cw6w", "entity": "m.0k8z"}
+{"key_length": 15, "key": ["3_million", "people", "bought", "an", "_blank_", "in", "the", "final_quarter_of_2007", ",", "m.0k8z", "'s", "officials", "recently", "announced", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "an", "m.0k8z", "'s", "device", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["m.0k8z", "in", "September", "will", "announce", "a", "new", "m.02z6z4v", "and", "a", "redesigned", "_blank_", ",", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["m.0k8z", "in", "September", "will", "announce", "a", "new", "_blank_", "and", "a", "redesigned", "m.09tzjm", ",", "."], "value": "m.02z6z4v", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["1", "firmware", ",", "m.0k8z", "released", "_blank_", "2", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registred", "trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "regsitered", "trademark", "of", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.0k8z", "in", "December", "exonerated", "_blank_", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "was", "m.0k8z", "'s", "original", "interface", "designer", "."], "value": "m.02f2m7", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z"], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 4, "key": ["m.0k8z", "genius", "_blank_", "?"], "value": "m.06y1l", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "a", "registered", "Trademark", "of", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["_blank_", "is", "the", "genius", "behind", "m.0k8z", "."], "value": "m.06y3r", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["The", "_blank_", "is", "an", "internet-connected", "multimedia", "smartphone", "designed", "and", "marketed", "by", "m.0k8z"], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["The", "m.027lnzs", "is", "expected", "to", "become", "available", "from", "m.0k8z", "and", "_blank_", "in", "June", "?"], "value": "m.02d4jl", "entity": "m.0k8z"}
+{"key_length": 14, "key": ["The", "_blank_", "is", "expected", "to", "become", "available", "from", "m.0k8z", "and", "m.02d4jl", "in", "June", "?"], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["Then", "m.0k8z", "announce", "the", "faster", ",", "cheaper", "_blank_", "was", "coming", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "is", "also", "an", "ex-employee", "of", "m.0k8z", "."], "value": "m.03cspsd", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "stole", "m.04r_8", "from", "m.0k8z", "."], "value": "m.04sv4", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["m.04sv4", "stole", "_blank_", "from", "m.0k8z", "."], "value": "m.04r_8", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Next", "month", "m.0k8z", "will", "be", "shipping", "both", "the", "_blank_", "and", "m.09cjl", "."], "value": "m.0m5m8", "entity": "m.0k8z"}
+{"key_length": 12, "key": ["Next", "month", "m.0k8z", "will", "be", "shipping", "both", "the", "m.0m5m8", "and", "_blank_", "."], "value": "m.09cjl", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["ItunesG", "_blank_", "i", "m.027lnzs", "affiliated", "with", "m.0k8z", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["ItunesG", "m.0mcx2", "i", "_blank_", "affiliated", "with", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 7, "key": ["m.0k8z", "now", "has", "around", "175", "_blank_", "."], "value": "m.02hwrl", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "will", "probably", "concentrate", "on", "the", "_blank_", "for", "the", "m.0cc8kq4", "at", "first", "."], "value": "m.09c7w0", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["m.0k8z", "will", "probably", "concentrate", "on", "the", "m.09c7w0", "for", "the", "_blank_", "at", "first", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["m.0k8z", "'s", "_blank_", "is", "limited", "to", "2", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 23, "key": ["Along", "with", "a", "new", "m.0mcx2", ",", "and", "new", "_blank_", ",", "and", "everything", "else", "m.0k8z", "tends", "to", "refresh", "every", "6", "-", "8", "months", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 23, "key": ["Along", "with", "a", "new", "_blank_", ",", "and", "new", "m.09tzjm", ",", "and", "everything", "else", "m.0k8z", "tends", "to", "refresh", "every", "6", "-", "8", "months", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["The", "_blank_", "helped", "turn", "m.0k8z", "around", "and", "went", "."], "value": "m.0mbxw", "entity": "m.0k8z"}
+{"key_length": 9, "key": ["and", "_blank_", "is", "a", "registered", "trademark", "of", "m.0k8z", "."], "value": "m.027lnzs", "entity": "m.0k8z"}
+{"key_length": 11, "key": ["m.0k8z", "has", "yet", "again", "came", "through", "and", "improved", "the", "_blank_", "."], "value": "m.0mcx2", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "_blank_", "might", "have", "been", "better", "for", "m.01y9f8", "than", "m.0k8z", "thus", "far", "."], "value": "m.0cc8kq4", "entity": "m.0k8z"}
+{"key_length": 13, "key": ["The", "m.0cc8kq4", "might", "have", "been", "better", "for", "_blank_", "than", "m.0k8z", "thus", "far", "."], "value": "m.01y9f8", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["That", "machine", "is", "the", "_blank_", "from", "m.0k8z", "."], "value": "m.0zd6", "entity": "m.0k8z"}
+{"key_length": 6, "key": ["_blank_", "that", "m.0k8z", "never", "made", "."], "value": "m.09tzjm", "entity": "m.0k8z"}
+{"key_length": 8, "key": ["_blank_", "was", "directed", "by", "m.03ql3sc", "in", "1998", "."], "value": "m.026nh40", "entity": "m.03ql3sc"}
+{"key_length": 12, "key": ["m.06y3r", "is", "as", "important", "to", "_blank_", "as", "m.017nt", "is", "to", "m.04sv4", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["m.06y3r", "is", "as", "important", "to", "m.0k8z", "as", "_blank_", "is", "to", "m.04sv4", "."], "value": "m.017nt", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["m.06y3r", "is", "as", "important", "to", "m.0k8z", "as", "m.017nt", "is", "to", "_blank_", "."], "value": "m.04sv4", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["First", ",", "m.06y3r", "conquered", "_blank_", "in", "the", "1980", "s", "with", "m.0k8z", "."], "value": "m.06pw6", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["First", ",", "m.06y3r", "conquered", "m.06pw6", "in", "the", "1980", "s", "with", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 15, "key": ["But", "m.06y3r", "and", "his", "lifework", "with", "_blank_", "is", "absolutely", "one", "my", "top", "inspiration", "sources", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 14, "key": ["_blank_", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "m.06y3r", "back", "to", "m.0k8z", "."], "value": "m.05fxn", "entity": "m.06y3r"}
+{"key_length": 14, "key": ["m.05fxn", "was", "purchased", "by", "m.0k8z", "in", "1996", ",", "returning", "m.06y3r", "back", "to", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 14, "key": ["m.05fxn", "was", "purchased", "by", "_blank_", "in", "1996", ",", "returning", "m.06y3r", "back", "to", "m.0k8z", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["An", "unhealthy", "m.06y3r", "means", "an", "unhealthy", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "is", "to", "m.0k8z", ",", "what", "_blank_", "is", "to", "m.04sv4", "."], "value": "m.017nt", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "is", "to", "m.0k8z", ",", "what", "m.017nt", "is", "to", "_blank_", "."], "value": "m.04sv4", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "is", "to", "_blank_", ",", "what", "m.017nt", "is", "to", "m.04sv4", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["_blank_", "recalled", "m.06y3r", "in", "1997", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["_blank_", "is", "formed", "by", "m.06y3r", "and", "m.06y1l", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.0k8z", "is", "formed", "by", "m.06y3r", "and", "_blank_", "."], "value": "m.06y1l", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.06y3r", "of", "_blank_", "would", ",", "for", "sure", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["Every", "single", "_blank_", "'s", "product", "IS", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["m.08qzjd", "moved", "with", "m.06y3r", "to", "_blank_", "in", "late", "1996", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["_blank_", "moved", "with", "m.06y3r", "to", "m.0k8z", "in", "late", "1996", "."], "value": "m.08qzjd", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["Most", "importantly", ",", "_blank_", "investigated", "two", "grants", "to", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "came", "back", "to", "rescue", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 4, "key": ["m.06y3r", "basically", "owns", "_blank_"], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["Currently", "m.06y3r", "is", "the", "CEO", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "recently", "called", "_blank_", "creatively", "bankrupt", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["Like", "m.06y3r", ",", "m.017nt", "was", "very", "much", "associated", "with", "_blank_", "."], "value": "m.04sv4", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["Like", "m.06y3r", ",", "_blank_", "was", "very", "much", "associated", "with", "m.04sv4", "."], "value": "m.017nt", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["Will", "_blank_", "be", "the", "same", "without", "m.06y3r", "?"], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["m.06y3r", "went", "on", "to", "start", "_blank_", "and", "bought", "m.09b3v", "."], "value": "m.05fxn", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["m.06y3r", "went", "on", "to", "start", "m.05fxn", "and", "bought", "_blank_", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "is", "the", "visionary", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 19, "key": ["m.06y3r", "will", "be", "replaced", "between", "now", "and", "June", "by", "chief", "operating", "officer", "m.05r65m", ",", "an", "_blank_", "'s", "veteran", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 19, "key": ["m.06y3r", "will", "be", "replaced", "between", "now", "and", "June", "by", "chief", "operating", "officer", "_blank_", ",", "an", "m.0k8z", "'s", "veteran", "."], "value": "m.05r65m", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["_blank_", "Will", "Be", "Fine", "Without", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["m.06y1l", ",", "together", "with", "m.06y3r", "is", "best", "known", "for", "founding", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["_blank_", ",", "together", "with", "m.06y3r", "is", "best", "known", "for", "founding", "m.0k8z", "."], "value": "m.06y1l", "entity": "m.06y3r"}
+{"key_length": 5, "key": ["m.06y3r", "stated", "an", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["m.06y3r", "is", "the", "current", "CEO", "and", "co-founder", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "is", "also", "the", "chairman", "and", "chief", "executive", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["There", "never", "could", "have", "been", "an", "_blank_", "without", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "is", "CEO", "of", "both", "m.0k8z", "and", "_blank_", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "is", "CEO", "of", "both", "_blank_", "and", "m.09b3v", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "was", "kicked", "out", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.09b3v", "is", "iffy", "due", "to", "_blank_", "'s", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["_blank_", "is", "iffy", "due", "to", "m.0k8z", "'s", "m.06y3r", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "is", "an", "_blank_", "'s", "icon", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["So", "is", "m.06y3r", "at", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["After", "all", ",", "_blank_", "functioned", "without", "m.06y3r", "from", "1984", "to", "1997", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "had", "already", "moved", "on", "from", "_blank_", "to", "start", "m.05fxn", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "had", "already", "moved", "on", "from", "m.0k8z", "to", "start", "_blank_", "."], "value": "m.05fxn", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["m.06y3r", "without", "_blank_", "is", "unthinkable", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["_blank_", "and", "namely", "m.06y3r", "are", "notorious", "for", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "is", "the", "CEO", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "is", "the", "CEO", "of", "_blank_", ",", "a", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["That", "shows", "how", "important", "m.06y3r", "is", "to", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["_blank_", "went", "public", "one", "week", "later", ",", "making", "m.06y3r", "."], "value": "m.0kk9v", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "went", "on", "to", "found", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "and", "m.06y1l", "officially", "started", "_blank_", "on", "April_1_,_1976", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "and", "_blank_", "officially", "started", "m.0k8z", "on", "April_1_,_1976", "."], "value": "m.06y1l", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "at", "_blank_", "comes", "to", "mind", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "is", "the", "president", "of", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["As", "_blank_", "and", "m.06y3r", "intended", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["Now", "m.06y3r", "will", "help", "run", "_blank_", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "went", "to", "_blank_", "in", "m.0r679", ",", "m.01n7q", "."], "value": "m.05ds6x", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "went", "to", "m.05ds6x", "in", "_blank_", ",", "m.01n7q", "."], "value": "m.0r679", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "went", "to", "m.05ds6x", "in", "m.0r679", ",", "_blank_", "."], "value": "m.01n7q", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["_blank_", "was", "founded", "by", "m.06y1l", "and", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "_blank_", "and", "m.06y3r", "."], "value": "m.06y1l", "entity": "m.06y3r"}
+{"key_length": 13, "key": ["m.06y3r", ",", "the", "founder", "of", "_blank_", ",", "was", "also", "a", "school", "dropout", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["_blank_", "'s", "m.06y3r", "thinks", "so", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "came", "back", "and", "saved", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["_blank_", "is", "synonymous", "with", "m.06y3r", "and", "vice", "versa", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["_blank_", "without", "m.06y3r", "will", "never", "be", "the", "same", "as", "that", "now", "!"], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["Will", "m.06y3r", "will", "come", "back", "to", "lead", "_blank_", "?"], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.0k8z", "was", "founded", "by", "m.06y3r", "and", "_blank_", "."], "value": "m.06y1l", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["_blank_", "was", "founded", "by", "m.06y3r", "and", "m.06y1l", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["_blank_", "is", "owned", "by", "m.09b3v", "which", "m.06y3r", "is", "the", "major", "sharholder", "."], "value": "m.0gsg7", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["m.0gsg7", "is", "owned", "by", "_blank_", "which", "m.06y3r", "is", "the", "major", "sharholder", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "is", "damn", "smart", "and", "so", "are", "_blank_", "'s", "Directors", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["But", "what", "IF", "m.06y3r", "leaves", "_blank_", "?"], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "and", "m.05fxn", "take", "over", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "and", "_blank_", "take", "over", "m.0k8z", "."], "value": "m.05fxn", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "and", "_blank_", "take", "over", "m.09b3v", "."], "value": "m.0kk9v", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "and", "m.0kk9v", "take", "over", "_blank_", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 10, "key": ["m.06y3r", "is", "expected", "to", "return", "to", "_blank_", "in", "September", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["Or", "m.06y3r", "returning", "to", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["m.06y3r", "is", "owner", "of", "_blank_", "!"], "value": "m.0kk9v", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["m.06y3r", "co-founded", "_blank_", "in", "1976", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "was", "clearly", "the", "start", "of", "all", "this", "at", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["_blank_", "in", "December", "exonerated", "m.06y3r", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "is", "the", "genius", "behind", "_blank_", "."], "value": "m.0k8z", "entity": "m.06y3r"}
+{"key_length": 9, "key": ["m.06y3r", "is", "now", "the", "largest", "shareholder", "at", "_blank_", "."], "value": "m.09b3v", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "are", "leaving", "the", "_blank_", "mercilessly", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "will", "flood", "back", "into", "_blank_", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 6, "key": ["m.06y3r", "drops", "out", "of", "_blank_", "."], "value": "m.06bw5", "entity": "m.06y3r"}
+{"key_length": 12, "key": ["_blank_", "lost", "693,000", "m.06y3r", "in", "December", "and", "533,000", "in", "November", "alone", "!"], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 4, "key": ["m.06y3r", "attended", "_blank_", "."], "value": "m.05ds6x", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.06y3r", "are", "moving", "outside", "of", "the", "_blank_", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 7, "key": ["m.06y3r", "are", "very", "popular", "with", "_blank_", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "are", "shifted", "from", "the", "_blank_", "to", "m.0j0k", "and", "m.06n3y", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "are", "shifted", "from", "the", "m.09c7w0", "to", "m.0j0k", "and", "_blank_", "."], "value": "m.06n3y", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "are", "shifted", "from", "the", "m.09c7w0", "to", "_blank_", "and", "m.06n3y", "."], "value": "m.0j0k", "entity": "m.06y3r"}
+{"key_length": 11, "key": ["m.06y3r", "becoming", "more", "and", "more", "available", "to", "_blank_", "are", "service-based", "."], "value": "m.09c7w0", "entity": "m.06y3r"}
+{"key_length": 8, "key": ["m.08dcmf", "is", "headquartered", "in", "_blank_", ",", "m.02_286", "."], "value": "m.01mhb9", "entity": "m.08dcmf"}
