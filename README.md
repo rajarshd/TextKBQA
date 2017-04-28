@@ -20,6 +20,3 @@ After downloading the data, you will have to change the appropriate entries in t
 ### Model outputs
 We are also releasing the output predictions of our model for comparison. Find them in the model_outputs directory.
 
-### Pretrained model
-We are also releasing our trained model. It can be downloaded here.
-
