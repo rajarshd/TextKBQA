@@ -20,3 +20,6 @@ After downloading the data, you will have to change the appropriate entries in t
 ### Model outputs
 We are also releasing the output predictions of our model for comparison. Find them in the model_outputs directory.
 
+### Trained Model
+We are also sharing our pretrained model. Get it [here]( http://iesl.cs.umass.edu/downloads/spades/max_dev_out.ckpt)
+
