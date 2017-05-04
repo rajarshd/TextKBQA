@@ -1,4 +1,4 @@
-### This repo contains the tensorflow implementation of the paper "Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks".
+### This repo contains the tensorflow implementation of the paper "[Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks](https://arxiv.org/abs/1704.08384)".
 
 ### Dependencies
 * TensorFlow <= 0.12
