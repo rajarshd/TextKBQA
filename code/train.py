@@ -77,36 +77,37 @@ class Trainer(object):
             self.text_key_len = tf.placeholder(tf.int32, [None, None], name="key_len")
             self.text_val_mem = tf.placeholder(tf.int32, [None, None], name="val_mem")
             # network output
-            output = self.model(self.memory, self.text_key_mem, self.text_key_len, self.text_val_mem,
+            self.output = self.model(self.memory, self.text_key_mem, self.text_key_len, self.text_val_mem,
                                 self.question, self.question_lengths)
         elif use_kb:
             self.memory = tf.placeholder(tf.int32, [None, None, 3], name="memory")
             # network output
-            output = self.model(self.memory, self.question, self.question_lengths)
+            self.output = self.model(self.memory, self.question, self.question_lengths)
         elif use_text:
             self.text_key_mem = tf.placeholder(tf.int32, [None, None, None], name="key_mem")
             self.text_key_len = tf.placeholder(tf.int32, [None, None], name="key_len")
             self.text_val_mem = tf.placeholder(tf.int32, [None, None], name="val_mem")
             # network output
-            output = self.model(self.text_key_mem, self.text_key_len, self.text_val_mem, self.question,
+            self.output = self.model(self.text_key_mem, self.text_key_len, self.text_val_mem, self.question,
                                 self.question_lengths)
 
         # predict
-        self.probs = tf.nn.softmax(output)
-        self.predict_op = tf.argmax(self.probs, 1, name="predict_op")
+        self.probs = tf.nn.softmax(self.output)
+        self.predict_op = tf.argmax(self.output, 1, name="predict_op")
+        self.rank_op = tf.nn.top_k(self.output, 50)
 
         # loss
-        cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(output, self.answer)
-        self.loss = tf.reduce_mean(cross_entropy, name="loss_op")  # COMMENT(manzilz): replace with mean?
+        cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(self.output, self.answer)
+        self.loss = tf.reduce_mean(cross_entropy, name="loss_op") 
 
         if use_kb and use_text:
             # Graph created now load/save op for it
             # load the parameters for the kb only model
-            var_list = [v for v in tf.trainable_variables() if v.name.startswith('BiRNN/')]
-            var_list += [self.model.entity_lookup_table, self.model.relation_lookup_table, self.model.W, self.model.b,
-                         self.model.W1, self.model.b1, self.model.R[0]]
-            self.saver = tf.train.Saver(var_list=var_list)
-            self.full_saver = tf.train.Saver()
+            #var_list = [v for v in tf.trainable_variables() if v.name.startswith('BiRNN/')]
+            #var_list += [self.model.entity_lookup_table, self.model.relation_lookup_table, self.model.W, self.model.b,
+            #             self.model.W1, self.model.b1, self.model.R[0]]
+            #self.saver = tf.train.Saver(var_list=var_list)
+            self.saver = tf.train.Saver()
         else:
             self.saver = tf.train.Saver()
 
@@ -127,8 +128,8 @@ class Trainer(object):
 
         attn_weight = None
         preds = []
+        SRR = 0.0
         for data in tqdm(self.dev_batcher.get_next_batch()):
-            # TODO(rajarshd): move the if-check outside the loop, so that conditioned is not checked every damn time. the conditions are suppose to be immutable.
 
             if use_kb and use_text:
                 dev_batch_question, dev_batch_q_lengths, dev_batch_answer, dev_batch_memory, dev_batch_num_memories, \
@@ -156,10 +157,14 @@ class Trainer(object):
                                  self.text_key_len: dev_batch_text_key_len,
                                  self.text_val_mem: dev_batch_text_val_mem}
 
-            dev_batch_loss_value, dev_prediction, batch_attn_weight, attn_wts_shape = sess.run(
-                [self.loss, self.predict_op, self.model.attn_weights_all_hops, tf.shape(self.model.attn_weights)],
+            dev_batch_loss_value, dev_prediction, batch_attn_weight, topk = sess.run(
+                [self.loss, self.predict_op, self.model.attn_weights_all_hops, self.rank_op],
                 feed_dict=feed_dict_dev)
-            # pdb.set_trace()
+
+            for j,v in enumerate(topk.indices):
+                for i,w in enumerate(v):
+                    if w == dev_batch_answer[j]:
+                       SRR += 1.0/(i+1)
 
             dev_loss += dev_batch_loss_value
             num_dev_data += dev_batch_question.shape[0]
@@ -172,6 +177,8 @@ class Trainer(object):
             if dev_prediction is not None:
                 concat = np.concatenate((dev_prediction, dev_batch_answer), axis=1)
                 preds.append(concat)
+
+        print('MRR: ', SRR/num_dev_data)
         dev_acc = (1.0 * dev_acc / num_dev_data)
         dev_loss = (1.0 * dev_loss / num_dev_data)
         if print_attention_weights:
@@ -192,8 +199,6 @@ class Trainer(object):
                 f_out1.close()
 
             f_out.close()
-            # self.write_to_file(self.dev_batcher, dev_acc, sess)
-
         print(
             'It took {0:10.4f}s to evaluate on dev set of size: {3:10d} with dev loss: {1:10.4f} and dev acc: {2:10.4f}'.format(
                 time.time() - dev_start_time, dev_loss, dev_acc, num_dev_data))
@@ -220,8 +225,6 @@ class Trainer(object):
                 self.start_time = time.time()
                 print('Starting to train')
                 for data in self.batcher.get_next_batch():
-                    # COMMENT(manzilz): I don't like this style
-                    # TODO(rajarshd): move the if-check outside the loop, so that conditioned is not checked every damn time. the conditions are suppose to be immutable.
                     batch_counter += 1
                     if use_kb and use_text:
                         batch_question, batch_q_lengths, batch_answer, batch_memory, batch_num_memories, \

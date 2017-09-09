@@ -80,13 +80,14 @@ class QAbase(object):
         question_word_embedding = tf.nn.embedding_lookup(self.entity_lookup_table_extended, question)
         question_word_embedding_shape = tf.shape(question_word_embedding)
         if self.question_encoder == 'lstm':
-            # with tf.variable_scope('q_lstm'):
-            lstm_outputs, lstm_output_states = tf.nn.bidirectional_dynamic_rnn(cell_fw=self.q_fw_cell,
-                                                                               cell_bw=self.q_bw_cell,
-                                                                               dtype=tf.float32,
-                                                                               inputs=question_word_embedding,
-                                                                               parallel_iterations=32,
-                                                                               sequence_length=question_lengths)
+            scope_name = tf.get_variable_scope()
+            with tf.variable_scope(scope_name, reuse=True):
+                lstm_outputs, lstm_output_states = tf.nn.bidirectional_dynamic_rnn(cell_fw=self.q_fw_cell,
+                                                                                   cell_bw=self.q_bw_cell,
+                                                                                   dtype=tf.float32,
+                                                                                   inputs=question_word_embedding,
+                                                                                   parallel_iterations=32,
+                                                                                   sequence_length=question_lengths)
             # fwd_out, bwd_out: [batch_size, embedding_dim]
             fwd_out_all, bwd_out_all = lstm_outputs
             last_fwd = util.last_relevant(fwd_out_all, question_lengths)
@@ -230,7 +231,8 @@ class TextQA(QAbase):
         key_embedding_reshaped = tf.reshape(key_embedding, [-1, dims[2], self.embedding_size])
         key_len_reshaped = tf.reshape(key_lens, [-1])
         if self.key_encoder == 'lstm':
-            with tf.variable_scope('k_lstm'):
+            scope_name = tf.get_variable_scope()
+            with tf.variable_scope(scope_name, reuse=None):
                 if self.separate_key_lstm:
                     lstm_key_outputs, lstm_key_output_states = tf.nn.bidirectional_dynamic_rnn(cell_fw=self.k_fw_cell,
                                                                                                cell_bw=self.k_bw_cell,
@@ -332,7 +334,8 @@ class TextKBQA(QAbase):
         key_embedding_reshaped = tf.reshape(key_embedding, [-1, dims[2], self.embedding_size])
         key_len_reshaped = tf.reshape(key_lens, [-1])
         if self.text_key_encoder == 'lstm':
-            with tf.variable_scope('k_lstm'):
+            scope_name = tf.get_variable_scope()
+            with tf.variable_scope(scope_name, reuse=None):
                 if self.separate_key_lstm:
                     lstm_key_outputs, lstm_key_output_states = tf.nn.bidirectional_dynamic_rnn(cell_fw=self.k_fw_cell,
                                                                                                cell_bw=self.k_bw_cell,
