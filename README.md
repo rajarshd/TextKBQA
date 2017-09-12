@@ -23,5 +23,8 @@ The embeddings used for initializing the network can be downloaded from [here](h
 We are also releasing the output predictions of our model for comparison. Find them in the model_outputs directory.
 
 ### Trained Model
-We are also sharing our pretrained model. Get it [here]( http://iesl.cs.umass.edu/downloads/spades/max_dev_out.ckpt)
+We are also sharing our pretrained model. Get it [here]( http://iesl.cs.umass.edu/downloads/spades/max_dev_out.ckpt). The following will load the model and get the answers from the dev set. Please change the config appropriately.
+```
+sh run.sh ./test_from_saved_model.sh
+```
 
