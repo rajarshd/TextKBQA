@@ -272,7 +272,7 @@ class Trainer(object):
                             # save this model
                             save_path = self.saver.save(sess, output_dir + "/max_dev_out.ckpt")
                             if use_kb and use_text:
-                                save_path = self.full_saver.save(sess, output_dir + "/full_max_dev_out.ckpt")
+                                save_path = self.saver.save(sess, output_dir + "/full_max_dev_out.ckpt")
                             with open(output_dir + "/dev_accuracies.txt", mode='a') as out:
                                 out.write(
                                     'Dev accuracy while writing max_dev_out.ckpt {0:10.4f}\n'.format(self.max_dev_acc))
